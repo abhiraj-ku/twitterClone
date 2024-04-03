@@ -1,0 +1,33 @@
+# Ignore Node Modules
+node_modules/
+
+# Ignore Compiled JavaScript Files
+*.js
+
+# Ignore Compiled TypeScript Declaration Files
+*.d.ts
+
+# Ignore Compiled Source Maps
+*.js.map
+
+# Ignore Environment Configuration Files
+.env
+.env.*
+
+# Ignore Build Output Directory
+dist/
+build/
+
+# Ignore Editor and IDE Files
+.vscode/
+.idea/
+.vs/
+
+
+
+# Ignore Logs and Temporary Files
+*.log
+*.tmp
+
+# Ignore User-specific Files
+.DS_Store
